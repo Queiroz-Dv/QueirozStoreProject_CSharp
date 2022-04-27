@@ -1,6 +1,6 @@
 using System;
 
-namespace QueirozStore.Domain.QueirozStore.Context
+namespace QueirozStore.Domain.QueirozStore.Context.Entities
 {
   public class Delivery
     {

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace QueirozStore.Domain.QueirozStore.Context
+namespace QueirozStore.Domain.QueirozStore.Context.Entities
 {
   public class Order
   {
